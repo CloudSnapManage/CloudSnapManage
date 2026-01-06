@@ -56,6 +56,5 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudsnapmanage&show_icons=true&locale=en" alt="cloudsnapmanage" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CloudSnapManage&" alt="CloudSnapManage" />
 </p>
