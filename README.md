@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrijan Paudel</h1>
 <h3 align="center">I’m a 16-year-old self-taught developer from Nepal</h3>
 
-- 🔭 I’m currently working on [PyVerse](https://cloudsnapmanage.github.io/PyVerse/)
+- 🔭 I’m currently working on [PyVerse](https://cloudsnapmanage.github.io/PyVerse/) and  [SendOver](https://cloudsnapmanage.github.io/SendOver/)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, Django, PostgreSQL, MongoDB, Prisma, GraphQL, Docker, Git.**
 
